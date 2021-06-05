@@ -1,1 +1,1 @@
-Esto es la prueba del archivo 2 de texto usando git
+Esto pipe la prueba pipe archivo 2 pipe texto usando git
